@@ -1,0 +1,16 @@
+table{
+    margin: 0 auto;
+}
+h1, h2{
+    text-align: center;
+}
+td{
+    border-left: 3px solid blue;
+    width: 1000px;
+    height: 80px;
+    font-size: 30px;
+}
+td:hover{
+    border-left: rgb(26, 121, 26);
+}
+
