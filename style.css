@@ -11,6 +11,6 @@ td{
     font-size: 30px;
 }
 td:hover{
-    border-left: rgb(26, 121, 26);
+    border-left: 3px solid rgb(26, 121, 26);
 }
 
